@@ -1,1 +1,2 @@
-# CHEG_672_budget_app
+# Budgeting calculator
+This streamlit-based calculator can determine 
